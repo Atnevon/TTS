@@ -1,0 +1,123 @@
+body {
+background-color: #323232;
+}
+
+
+.navbar {
+  /* background: #333333; */
+  margin: 0px;
+  border: 0px;
+  color: white;
+}
+
+
+
+
+.jumbotron {
+  background-image:url('http://upload.wikimedia.org/wikipedia/commons/6/62/Drip_Coffee_Bangkok.jpg'); 
+  padding: 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: -40px;
+  background-position: center;
+  text-align: left;
+  padding-left: 3%;
+
+}
+
+.jumbotron h1 {
+  font-family: helvetica, arial;
+  /*
+  color: white;
+  */
+  font-size: 5em;
+  font-style: bold;
+  color: white;
+  text-shadow: 2px 4px 6px #000000;
+  text-align: left;
+}
+
+
+.subtitle {
+  background-color: #323232;
+  color: white;
+  text-align: center;
+  
+  text-shadow: 2px 2px 2px #000000;
+  padding-bottom: 15px;
+
+
+}
+
+.containerfeatures {
+  background: #a2ded0;
+  padding-top: 25px;
+  padding-top: 25px;
+  text-align: center;
+
+
+}
+
+
+
+/*.footer {
+  background: red;
+  color: white;
+  text-align: right;
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+  
+}
+
+.footer ul li {
+    display: inline-block;
+    list-style: none;
+    background: red;
+
+    padding: 10px;
+    
+
+    float: right;
+    color: white;
+}
+
+.footer p {
+  background: red;
+  float: left;
+  padding: 10px;
+  color: white;
+  vertical-align: middle;
+}
+*/
+
+
+
+
+
+
+
+/*PART 2*/
+
+
+.footer {
+  color: white;
+  background-color: #ff5050;
+  text-align: right;
+  padding-left: 20px;
+  padding-right: 20px;
+  /*margin-top: 10px;*/
+}
+
+.footer ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 2%;
+}
+
+.footer p {
+  float: left;
+  padding: 2%;
+}
